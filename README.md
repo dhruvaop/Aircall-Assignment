@@ -1,5 +1,5 @@
 ## Live Demo
-https://aircall-fe-challenge.vercel.app/
+https://aircall-assignment-fawn.vercel.app/
 
 ## Notes
 - The footer component is not functional. It is just a UI based component
